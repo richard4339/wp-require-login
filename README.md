@@ -7,4 +7,4 @@ How To Use
 
 After installation, navigate to Settings > Require Login, and check the checkbox. You should now require authentication to access any portion of WordPress.
 
-![Screenshot](http://www.digitalxero.com/wp-content/uploads/2012/01/iWZNDGykGPkoHqobI0PBtnBIX.png "wp-require-login")
+![Screenshot](https://github.com/richard4339/wp-require-login/raw/uninstall/screenshot-1.png "wp-require-login")
