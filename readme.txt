@@ -31,7 +31,7 @@ Once the plugin itself is installed, navigate to the 'Require Login' Settings me
 I personally wrote this for a Wordpress installation in early 2008. When I revived it a few days ago, I did have to make some changes. In all honesty, it should work with 3.2 onwards, or on even earlier versions with the Settings menu portions removed from the code. I'm only listing 3.3.0 since this is the earliest version I can guarantee it works with.
 
 = I found a bug! =
-
+Please report the bug on our [issue tracker](https://github.com/richard4339/wp-require-login/issues) at [Github](https://github.com/richard4339/wp-require-login/issues).
 
 == Screenshots ==
 
