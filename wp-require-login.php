@@ -47,7 +47,7 @@ add_action('admin_notices', 'rl_post_install');
 add_action('admin_menu', 'rl_menu');
 
 function rl_menu() {
-    add_options_page('Require Login', 'Require Login', 8, 'require_login', 'require_login');
+    add_options_page('Require Login', 'Require Login', 'manage_options', 'require_login', 'require_login');
 }
 
 function require_login() {
