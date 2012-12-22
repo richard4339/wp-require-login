@@ -6,7 +6,7 @@ Author URI: http://www.digitalxero.com/
 Plugin URI: http://www.digitalxero.com/software-development/wp-require-login/
 Requires at least: 3.3.0
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 A plugin for Wordpress that redirects users to the login page whenever they try to visit any page/post/etc on the blog.
 
@@ -31,13 +31,17 @@ Once the plugin itself is installed, navigate to the 'Require Login' Settings me
 I personally wrote this for a Wordpress installation in early 2008. When I revived it a few days ago, I did have to make some changes. In all honesty, it should work with 3.2 onwards, or on even earlier versions with the Settings menu portions removed from the code. I'm only listing 3.3.0 since this is the earliest version I can guarantee it works with.
 
 = I found a bug! =
-Please report the bug on our [issue tracker](https://github.com/richard4339/wp-require-login/issues) at [Github](https://github.com/richard4339/wp-require-login/issues).
+Please report the bug on our [issue tracker](https://github.com/richard4339/wp-require-login/issues) at [GitHub](https://github.com/richard4339/wp-require-login/issues).
 
 == Screenshots ==
 
 1. The Require Login Settings page.
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Minor update from [cmwelsh](https://github.com/cmwelsh): Replaced deprecated user level requirement with manage_options requirement.
 
 = 1.0 =
 
@@ -49,6 +53,10 @@ Please report the bug on our [issue tracker](https://github.com/richard4339/wp-r
 
 == Upgrade Notice ==
 
+= 1.0.1 =
+
+* Minor update: Replaced deprecated user level requirement with manage_options requirement.
+
 = 1.0 =
 Added plugin installation and uninstall functions to aid option table cleanup.
 
@@ -57,8 +65,8 @@ Initial version.
 
 == To Do ==
 
-* Cleaned up for version 1.0.
+* Nothing currently. If you have any requests, please submit them on [GitHub](https://github.com/richard4339/wp-require-login/issues).
 
 == Git/Subversion ==
 
-In addition to the subversion access that Wordpress is providing, this plugin is available through git at [Github](https://github.com/richard4339/wp-require-login).
+In addition to the subversion access that Wordpress is providing, this plugin is available through git at [GitHub](https://github.com/richard4339/wp-require-login).
