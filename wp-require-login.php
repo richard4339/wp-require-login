@@ -3,7 +3,7 @@
   Plugin Name: Require Login
   Plugin URI: https://github.com/richard4339/wp-require-login
   Description: Plugin redirects users to the login page whenever they try to visit any page on the website.
-  Version: 1.0
+  Version: 1.0.1
   Author: Richard
   Author URI: http://www.digitalxero.com
  */
