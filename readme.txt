@@ -5,8 +5,8 @@ Tags: admin, login, private
 Author URI: http://www.digitalxero.com/
 Plugin URI: http://www.digitalxero.com/software-development/wp-require-login/
 Requires at least: 3.3.0
-Tested up to: 3.3.1
-Stable tag: 1.0.1
+Tested up to: 4.1.1
+Stable tag: 1.0.2
 
 A plugin for Wordpress that redirects users to the login page whenever they try to visit any page/post/etc on the blog.
 
@@ -39,6 +39,10 @@ Please report the bug on our [issue tracker](https://github.com/richard4339/wp-r
 
 == Changelog ==
 
+= 1.0.2 =
+
+* Update to README only for version verification.
+
 = 1.0.1 =
 
 * Minor update from [cmwelsh](https://github.com/cmwelsh): Replaced deprecated user level requirement with manage_options requirement.
@@ -52,6 +56,10 @@ Please report the bug on our [issue tracker](https://github.com/richard4339/wp-r
 * First published version.
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+
+* Non-critical update: Update to README only for version verification.
 
 = 1.0.1 =
 
