@@ -6,7 +6,7 @@ Author URI: http://www.digitalxero.com/
 Plugin URI: http://www.digitalxero.com/software-development/wp-require-login/
 Requires at least: 3.3.0
 Tested up to: 4.1.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,10 @@ Please report the bug on our [issue tracker](https://github.com/richard4339/wp-r
 
 == Changelog ==
 
+= 1.0.3 =
+
+* Added cmwelsh as a contributor
+
 = 1.0.2 =
 
 * Update to README only for version verification.
@@ -58,6 +62,10 @@ Please report the bug on our [issue tracker](https://github.com/richard4339/wp-r
 * First published version.
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+
+* Non-critical update: Update to README only
 
 = 1.0.2 =
 
