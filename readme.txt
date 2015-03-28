@@ -1,5 +1,5 @@
 === wp-require-login ===
-Contributors: richard4339
+Contributors: richard4339, cmwelsh
 Donate link: http://www.digitalxero.com/
 Tags: admin, login, private
 Author URI: http://www.digitalxero.com/
